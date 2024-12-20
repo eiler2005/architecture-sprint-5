@@ -1,0 +1,28 @@
+2024-12-20 10:27:00,355 - h5py._conv - DEBUG - Creating converter from 7 to 5
+2024-12-20 10:27:00,355 - h5py._conv - DEBUG - Creating converter from 5 to 7
+2024-12-20 10:27:00,355 - h5py._conv - DEBUG - Creating converter from 7 to 5
+2024-12-20 10:27:00,355 - h5py._conv - DEBUG - Creating converter from 5 to 7
+2024-12-20 10:27:02,820 - jax._src.path - DEBUG - etils.epath was not found. Using pathlib for file I/O.
+2024-12-20 10:27:10,018 - root - INFO - Starting Rasa server on http://0.0.0.0:5005
+2024-12-20 10:27:10,573 - rasa.core.processor - INFO - Loading model models\20241220-102710-colorful-diamond.tar.gz...
+2024-12-20 10:27:31,718 - root - INFO - Rasa server is up and running.
+2024-12-20 10:27:31,718 - root - INFO - Enabling coroutine debugging. Loop id 2584168854096.
+2024-12-20 10:28:55,356 - h5py._conv - DEBUG - Creating converter from 7 to 5
+2024-12-20 10:28:55,356 - h5py._conv - DEBUG - Creating converter from 5 to 7
+2024-12-20 10:28:55,356 - h5py._conv - DEBUG - Creating converter from 7 to 5
+2024-12-20 10:28:55,356 - h5py._conv - DEBUG - Creating converter from 5 to 7
+2024-12-20 10:28:56,705 - jax._src.path - DEBUG - etils.epath was not found. Using pathlib for file I/O.
+2024-12-20 10:28:57,800 - root - INFO - Starting Rasa server on http://0.0.0.0:5005
+2024-12-20 10:28:58,245 - rasa.core.processor - INFO - Loading model models\20241220-102710-colorful-diamond.tar.gz...
+2024-12-20 10:29:17,157 - root - INFO - Rasa server is up and running.
+2024-12-20 10:29:17,157 - root - INFO - Enabling coroutine debugging. Loop id 1816745423392.
+2024-12-20 10:30:43,471 - h5py._conv - DEBUG - Creating converter from 7 to 5
+2024-12-20 10:30:43,471 - h5py._conv - DEBUG - Creating converter from 5 to 7
+2024-12-20 10:30:43,471 - h5py._conv - DEBUG - Creating converter from 7 to 5
+2024-12-20 10:30:43,471 - h5py._conv - DEBUG - Creating converter from 5 to 7
+2024-12-20 10:30:43,850 - jax._src.path - DEBUG - etils.epath was not found. Using pathlib for file I/O.
+2024-12-20 10:30:44,956 - root - INFO - Starting Rasa server on http://0.0.0.0:5005
+2024-12-20 10:30:45,382 - rasa.core.processor - INFO - Loading model models\20241220-102710-colorful-diamond.tar.gz...
+2024-12-20 10:31:04,893 - rasa.shared.utils.common - WARNING - The UnexpecTED Intent Policy is currently experimental and might change or be removed in the future 🔬 Please share your feedback on it in the forum (https://forum.rasa.com) to help us make this feature ready for production.
+2024-12-20 10:31:14,776 - root - INFO - Rasa server is up and running.
+2024-12-20 10:31:14,776 - root - INFO - Enabling coroutine debugging. Loop id 2690050634320.
